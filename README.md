@@ -14,8 +14,8 @@ el **-m** es utilizado para añadir un mensaje a este "punto de guardado".
 
 ## Elaboracion del README
 
-![README](ElaboracionRME.png)
+![README](images/ElaboracionRME.png)
 
-##Cuenta de Github enlazada al correo institucional
+## Cuenta de Github enlazada al correo institucional
 
-![correo](CorreoVinculado.png)	
+![correo](images/CorreoVinculado.png)
