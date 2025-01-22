@@ -23,6 +23,10 @@ el **-m** es utilizado para añadir un mensaje a este "punto de guardado".
 
 # Parte II
 
+1. 
+- Owner: Juan Andrés Rodríguez (Juan_Rpenuela)
+- Colaborator: Nicolás Pachón
+
 ## Invitación del Owner al Colaborador
 
 ![Invitation](images/Invitacion.png)
