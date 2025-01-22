@@ -4,6 +4,7 @@
 ## Bienvenidos al laboratorio 1 de Ciclos de vida de software
 Para este laboratorio aprenderemos crear un Readme y a añadirlos  un repositorio creado por nosotros, haremos tambien nuestros primeros trabajos en equipo sobre un mismo repositorio.
 
+#Parte 1
 
 ## ¿Para que sirve el comando "git add"?
 Prepara los cambios realizados en la maquina local o zona de trabajo en el repositorio.
