@@ -27,6 +27,42 @@ el **-m** es utilizado para añadir un mensaje a este "punto de guardado".
 - Owner: Juan Andrés Rodríguez (Juan_Rpenuela)
 - Colaborator: Nicolás Pachón
 
+2. 
+
 ## Invitación del Owner al Colaborador
 
 ![Invitation](images/Invitacion.png)	
+
+3. 
+
+## Invitación via teams
+
+![InvitationTeams](images/InvitacionTeams.png)
+
+4. 
+
+## El colaborador acepta la invitacion al repositorio
+
+![Invitation](images/Invitacion2.png)
+
+5.
+
+## Owner y colaborador intentan cambiar el readme a la vez
+
+
+6.
+
+![Invitation](images/problemasDeMerge.png)
+
+![Invitation](images/Problemas2.png)
+
+
+
+
+	
+
+
+
+
+
+
