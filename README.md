@@ -25,4 +25,4 @@ el **-m** es utilizado para añadir un mensaje a este "punto de guardado".
 
 ## Invitación del Owner al Colaborador
 
-![Invitation](images/Invitacion)
+![Invitation](images/Invitacion.png)
