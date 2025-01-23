@@ -55,17 +55,10 @@ Al intentar hacer el pull del repositorio las persona que no logro subir sus cam
 
 ## 8. Resolución de conflictos IntelliJ
 
+# Parte III
 
-
-
-
-
-
-
-	
-
-
-
-
-
-
+## 1.  ¿Hay una mejor forma de trabajar con git para no tener conflictos?
+Una forma recomendada para trabajar en github es haciendo el uso de ramas, puesto que este permite hacer cambios y demás acciones en un ambiente aislado con respecto a la rama principal, generando que se pueda editar codigo y agregarlo sin interferir con los cambios generados por otras personas o colaboradores.
+## 2.  ¿Qué es y como funciona el  **Pull Request**?
+El pull request, como el nombre indica, es una solicitud que se realiza para poder subir a un repositorio los avances o modificaciones realizadas en una rama en especifico. Esta se solicita y una persona encargada debe revisar los archivos asociados al commit para decidir si integrar o no los cambios a una rama.
+## 3.  Creen una rama cada uno y suban sus cambios
