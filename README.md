@@ -78,7 +78,11 @@ Nos movemos de rama para realizar los cambios
 
 
 
-	
+### Creación de la rama de Nicolás Pachón Unibio para comprobar comportamiento de cambios en git
+
+![nuevaRama](images/RamaNicolas.png)
+
+![ambasRamas](images/AmbasRamas.png)
 
 
 
