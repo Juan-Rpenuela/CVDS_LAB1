@@ -54,7 +54,8 @@ Al intentar hacer el pull del repositorio las persona que no logro subir sus cam
 ![Invitation](images/Problemas2.png)
 
 ## 8. Resolución de conflictos IntelliJ
-Procedemos a crear un conflicto y a solucionarlo con intellij
+Procedemos a crear un conflicto y a solucionarlo con intellij, al momento de hacer la resolución del conflicto y el merge del intellij este borro los cambios de uno de los contribuidores.
+![Intellij](IntelliJConflict.png)
 
 
 
