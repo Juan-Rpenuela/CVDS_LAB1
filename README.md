@@ -72,7 +72,11 @@ El pull request, como el nombre indica, es una solicitud que se realiza para pod
 
 
 
-	
+### Creación de la rama de Nicolás Pachón Unibio para comprobar comportamiento de cambios en git
+
+![nuevaRama](images/RamaNicolas.png)
+
+![ambasRamas](images/AmbasRamas.png)
 
 
 
