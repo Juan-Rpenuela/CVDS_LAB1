@@ -43,7 +43,7 @@ el **-m** es utilizado para añadir un mensaje a este "punto de guardado".
 
 ## 5. Owner y colaborador intentan cambiar el readme a la vez
 
-![Invitation](images/ProblemasDeMerge.png)
+![Invitation](images/problemasDeMerge.png)
 
 ## 6. ¿Que sucedió?
 Uno de los dos colaboradores del repositorio logró subir sus cambios, el otro no lo logró dando el problema de que los archivos en el repositorio tienen cambios los cuales no se tienen en la maquina local en la que se trabaja, tambien nos pide que hagamos un pull sobre el repositorio.
@@ -55,7 +55,7 @@ Al intentar hacer el pull del repositorio las persona que no logro subir sus cam
 
 ## 8. Resolución de conflictos IntelliJ
 Procedemos a crear un conflicto y a solucionarlo con intellij, al momento de hacer la resolución del conflicto y el merge del intellij este borro los cambios de uno de los contribuidores.
-![Intellij](images/IntelliJConflict.png)
+![Intellij](IntelliJConflict.png)
 
 
 # Parte III
@@ -65,12 +65,6 @@ Una forma recomendada para trabajar en github es haciendo el uso de ramas, puest
 ## 2.  ¿Qué es y como funciona el  **Pull Request**?
 El pull request, como el nombre indica, es una solicitud que se realiza para poder subir a un repositorio los avances o modificaciones realizadas en una rama en especifico. Esta se solicita y una persona encargada debe revisar los archivos asociados al commit para decidir si integrar o no los cambios a una rama.
 ## 3.  Creen una rama cada uno y suban sus cambios
-
-### Creación Rama Juan Andrés Rodriguez
-![rama](images/RamaJuanAndres.png)
-Nos movemos de rama para realizar los cambios
-
-![brch](images/ChangeBranch.png)
 
 
 
