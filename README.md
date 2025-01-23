@@ -54,6 +54,8 @@ Al intentar hacer el pull del repositorio las persona que no logro subir sus cam
 ![Invitation](images/Problemas2.png)
 
 ## 8. Resolución de conflictos IntelliJ
+Procedemos a crear un conflicto y a solucionarlo con intellij
+
 
 
 
